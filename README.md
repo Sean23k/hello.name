@@ -1,4 +1,4 @@
-// Author Your Name
+// Sean Hu
 // Description: Hello World in C++
 //============================================================
 main
